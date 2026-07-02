@@ -4,27 +4,27 @@ Você quer entrar no mundo da programação, mas não sabe por onde começar?
 
 Este e-book foi criado para quem deseja aprender C# de forma simples, organizada e sem complicação. Mesmo que você nunca tenha escrito uma linha de código, aqui você encontrará um caminho claro para desenvolver uma base sólida.
 
-O que você vai aprender
+# O que você vai aprender
 
-# ✔ Fundamentos da programação
+ ✔ Fundamentos da programação
 
-# ✔ Sintaxe do C#
+ ✔ Sintaxe do C#
 
-# ✔ Variáveis e tipos de dados
+ ✔ Variáveis e tipos de dados
 
-# ✔ Operadores
+ ✔ Operadores
 
-# ✔ Estruturas condicionais (if/else e switch)
+ ✔ Estruturas condicionais (if/else e switch)
 
-# ✔ Laços de repetição (for, while e foreach)
+ ✔ Laços de repetição (for, while e foreach)
 
-# ✔ Métodos e funções
+ ✔ Métodos e funções
 
-# ✔ Vetores e listas
+ ✔ Vetores e listas
 
-# ✔ Programação orientada a objetos (introdução)
+ ✔ Programação orientada a objetos (introdução)
 
-# ✔ Exercícios para fixação
+ ✔ Exercícios para fixação
 
 # Para quem é este e-book?
 
